@@ -1,3 +1,4 @@
 # cmsok
-The creation of CMS for site smsok.ru
-fork local 
+The creation of CMS for 
+site smsok.ru
+добавил строчку через панел 14abcd17
